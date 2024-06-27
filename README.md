@@ -34,6 +34,7 @@ python main.py \
 --src_prompt "A photo of a zebra" \
 ```
 - ```main.py``` also includes the Null-Text Inversion.
+- Virtual-tryon, sofas and Wild-Pairs datasets are available [here](https://drive.google.com/drive/folders/1m37YEH_ChP8yBC9bDbRV0WzbzdoXspdt?usp=drive_link).
 
 ### Demo images
 <p float="top">
